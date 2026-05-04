@@ -4,7 +4,7 @@
 
 ## 🚀 Skills 
 - C and C++(OOP and problem solving)
-- Working and Learning JAVA (Swing GUI development)
+- Working and Learning Java (Swing GUI development)
 - Python(learning for scientific computing)
 
 ## ✨ Experience
